@@ -32,7 +32,6 @@ header {
 #title {
   display: inline;
   color: rgb(66, 7, 7);
-  /* border: 2px solid blue; */
   position: absolute;
   top: calc(50% - 0.5em);
   margin-left: 20px;
